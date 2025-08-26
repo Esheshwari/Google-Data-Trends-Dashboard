@@ -1,0 +1,7 @@
+pandas
+matplotlib
+pytrends
+plotly
+dash
+gspread
+oauth2client
