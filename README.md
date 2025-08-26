@@ -32,8 +32,7 @@ The **Google Trends Insights Dashboard** is an interactive web application built
 ## 🖼️ Project Demo  
 
 ### 🔹 Dashboard Preview   
-![Dashboard Screenshot](ProjectDemo/Screenshot 2025-08-27 032222.png)  
-![Dashboard Screenshot](ProjectDemo/Screenshot 2025-08-27 032324.png)  
+![Dashboard Screenshot](https://github.com/Esheshwari/Google-Data-Trends-Dashboard/tree/73c8ab15754f362d6f5c803a0250bf9ff069146e/ProjectDemo) 
 
 
 ---
