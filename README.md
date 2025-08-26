@@ -16,6 +16,19 @@ The **Google Trends Insights Dashboard** is an interactive web application built
 
 🔗 **Live Demo** → [Click Here](https://app-data-trends-dashboard-cdz972fijc6v9mymewytjf.streamlit.app/)  
 
+## 🎯 Why This Project is Helpful?  
+
+This project is not just about showing Google Trends data – it’s about **making data insights accessible and interactive**.  
+Here’s how it’s helpful:  
+
+- 📊 **Market Research** → Businesses can compare brand/product interest across regions.  
+- 🎓 **Academic Use** → Students & researchers can analyze global interest in technologies, topics, or events.  
+- 📰 **Media & Journalism** → Reporters can validate what topics are trending.  
+- 💡 **Personal Use** → Anyone curious about what people are searching worldwide.  
+
+In short: It **transforms raw Google Trends data into actionable insights** with zero coding needed. 🚀  
+
+
 ---
 
 ## ✨ Features  
